@@ -442,5 +442,25 @@ I don't know if it's because I'm tired or dry.
 
 I'll stop here and go to sleep.
 
+Q.
 
+You're currently using Java, are you interested in switching to another language?
+
+​
+
+A.
+
+Yes, I am planning to change my language to Kotlin in the future.
+
+​
+
+Kotlin is now an essential language for Android development.
+
+​
+
+All the new features that are currently being developed are libraries for Kotlin.
+
+​
+
+So I don't think there's much advantage in continuing to use Java.
 ﻿
