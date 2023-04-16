@@ -463,4 +463,20 @@ All the new features that are currently being developed are libraries for Kotlin
 ​
 
 So I don't think there's much advantage in continuing to use Java.
+
+Q.
+
+Is there a new restaurant you found?
+
+A.
+
+Yes, I recently found a sushi restaurant near my house, one of my favorite foods.
+
+​
+
+The advantage of this restaurant is that it only takes about 5 minutes from my studio apartment.
+
+​
+
+The price is also 11000\, which is not too much to buy often, so I use it often.
 ﻿
