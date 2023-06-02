@@ -1151,3 +1151,23 @@ I was coding yesterday, but the codes didn't catch my eye.
 ​
 
 This will probably continue throughout the week.
+
+Q.
+
+You looked very busy this morning.
+
+​
+
+A.
+
+Right.
+
+I was looking at my hands because the boot speed of my company's PC computer was so slow.
+
+​
+
+I turned the computer boot speed to normal speed, but the Winodw account login speed was too slow, so I investigated and found that the account profile was damaged and it was slow.
+
+​
+
+So I had no choice but to lose my account... Even the company's development settings were reset, so I was busy reversing them.
